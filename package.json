@@ -1,0 +1,13 @@
+{
+  "name": "responsive-web-design",
+  "version": "1.0.0",
+  "description": "A responsive web design project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["web", "design", "responsive"],
+  "author": "Ghazala Babar",
+  "license": "ISC",
+  "dependencies": {}
+}
