@@ -9,5 +9,14 @@
   "keywords": ["web", "design", "responsive"],
   "author": "Ghazala Babar",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "engines": {
+    "node": "8.11.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghazalababar33/Responsive-Web-Design.git"
+  }
 }
